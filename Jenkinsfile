@@ -1,4 +1,3 @@
-#fgdf
 pipeline {
     agent any
     stages {
